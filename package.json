@@ -1,0 +1,24 @@
+{
+  "name": "cypress-base-project",
+  "version": "1.0.0",
+  "description": "Pacote com métodos que facilitam o uso de cypress\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvarengadouglas/base-project-cypress.git"
+  },
+  "keywords": [
+    "cypress",
+    "base",
+    "project"
+  ],
+  "author": "Douglas Barbosa <dalvarenga.857@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvarengadouglas/base-project-cypress/issues"
+  },
+  "homepage": "https://github.com/alvarengadouglas/base-project-cypress#readme"
+}
