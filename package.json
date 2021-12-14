@@ -1,7 +1,7 @@
 {
-  "name": "cypress-base-project",
+  "name": "base-project-cypress",
   "version": "1.0.0",
-  "description": "Pacote com métodos que facilitam o uso de cypress\u001b[1;5D\u001b[1;5D\u001b[1;5D\u001b[1;5D",
+  "description": "Pacote com métodos que facilitam o uso de cypress",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
